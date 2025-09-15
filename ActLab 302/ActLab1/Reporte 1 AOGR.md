@@ -1,5 +1,5 @@
 %%writefile PB302_1.cpp
-//Programa para omprimir mensaje de bienvnida
+//Programa para imprimir mensaje de bienvnida
 //creado por Andres Omar Gonzalez Rosas
 //fecha: 15/Septiembre/2025
 //PB302_1.cpp
